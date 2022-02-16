@@ -1,1 +1,6 @@
 node_modules
+#logs
+*.log
+logs
+Lerna-debug.log*
+yarn-error.log*
